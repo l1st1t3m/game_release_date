@@ -8,269 +8,230 @@ X-WR-TIMEZONE:Asia/Shanghai
 
 BEGIN:VEVENT
 UID:game_1@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250123
 SUMMARY:猛兽派对
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《猛兽派对》是一款基于物理的多人派对游戏。选择你喜欢的小动物角色，和朋友们一起挑战其他玩家，或者展开激烈的对决吧！看到毛绒绒的小动物们你还不心动吗？
-
 详细信息：https://www.gamersky.com/z/partyanimals/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_2@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250117
 SUMMARY:真三国无双：起源
 DESCRIPTION:类型：动作角色扮演
 制作发行：未知开发商
-
 简介：在充满紧张气氛的战场上，玩家将与铺天盖地的敌军展开殊死搏斗。该如何抵挡汹涌而来的敌人？除了自己，还可以与盟军协同作战，挑战“真・三国无双”系列独有的战术战役，畅享该系列史上最极致的爽快感。
-
 详细信息：https://www.gamersky.com/z/zsgwsqy/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_3@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250121
 SUMMARY:主播女孩重度依赖
 DESCRIPTION:类型：模拟游戏
 制作发行：未知开发商
-
 简介：《主播女孩重度依赖》是一款描绘网络天使（主播）日常生活的多结局ADV。这位名叫“超绝最可爱天使酱”的主播有着很强烈的想要被他人认可的欲望，玩家需要帮助她进行日常直播，照看有时病娇的她，喂她吃药，并同时努力增加她的粉丝数量。游戏中，玩家将迎来各种各样的毁灭性结局，而故事是否存在美好结局，就需要您去寻找
-
 详细信息：https://www.gamersky.com/z/needygirl/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_4@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250102
 SUMMARY:鸣潮
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《鸣潮》是一款开放世界动作游戏，主打高自由度的动作战斗玩法与丰富多样的开放世界探索。而你，在这个世界苏醒的漂泊者，将在找回记忆、寻找自我身份的同时结识无数的共鸣者同伴，并和伙伴一起踏上跨越悲鸣的旅途。
-
 详细信息：https://www.gamersky.com/z/wutheringwaves/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_5@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250124
 SUMMARY:信使
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《信使》是由Sabotage制作并发行的一款神似《忍龙》的动作游戏。本作采用8-bit风格，支持16bit转换。
 　　在游戏中，玩家将扮演一位身负使命的年轻忍者，他被选为信使，要将卷轴带到目的地，族人们的性命就寄托于此。为此，年轻的忍者要在这个被诅咒的世界中穿行，与包围村庄的恶魔军队交战，勉力
-
 详细信息：https://ku.gamersky.com/2018/themessenger/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_6@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250124
 SUMMARY:忍者龙剑传2：黑之章
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：成为继承传奇宝刀“龙剑”的忍者龙隼，于世界各地挑战高手的高速忍者动作游戏，时隔15年以高画质Remaster版本复活！
-
 详细信息：https://www.gamersky.com/z/ninja-gaiden-2-black/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_7@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250123
 SUMMARY:名利游戏
 DESCRIPTION:类型：角色扮演
 制作发行：未知开发商
-
 简介：《名利游戏》是一款以职场和人生抉择为主题的互动剧情游戏。玩家将扮演主角陆远，一位电影学院毕业生，跟随他的职业生涯和个人生活。游戏通过多个时间线展开，每个时间线都充满了挑战和决策。玩家的选择不仅会影响陆远的职业发展，还会影响他与周围人的关系。
-
 详细信息：https://www.gamersky.com/z/mlyx/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_8@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250122
 SUMMARY:终焉之玛格诺利亚：雾中盛放之花
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：距《终焉莉莉丝》的死亡之雨灾难数十年后，失控的“人造生命体”带来了毁灭性的破坏。在这款充满悲情的末日幻想探索动作RPG中，你将自由地探索绝美却又残酷的世界，与同伴们一起面对各种各样的强敌。在救赎人类与人造生命体之旅的尽头，等着你的会是什么呢？
-
 详细信息：https://www.gamersky.com/z/endermagnolia/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_9@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250123
 SUMMARY:红至日2：幸存者
 DESCRIPTION:类型：策略游戏
 制作发行：未知开发商
-
 简介：《红至日2：幸存者》是由Ironward制作发行的一款上帝视角科幻策略生存游戏。2247年的火星上危机四伏，人类的殖民统治已经不再稳固，来自其他星球的利益团体已经开始与人类瓜分火星资源，偏偏这个敏感的时期，恐怖的病毒爆发，你和你的小队成员要在怪物盘踞、病毒肆虐的地区解决病毒问题，同时消灭敌对势力，但
-
 详细信息：https://ku.gamersky.com/2021/the-red-solstice-2-survivors/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_10@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250110
 SUMMARY:恸哭之星
 DESCRIPTION:类型：动作角色扮演
 制作发行：未知开发商
-
 简介：《恸哭之星》是由日本Gemdrops工作室开发的一款动作角色扮演游戏。负责本作剧本的是曾经为Key社写过不少催泪故事的久弥直树。
-
 详细信息：https://ku.gamersky.com/2018/crystar/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_11@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250124
 SUMMARY:奇异贤伴 爱达之歌
 DESCRIPTION:类型：第三人称射击
 制作发行：未知开发商
-
 简介：“奇异贤伴 爱达之歌”是款让玩家驾驶机人，成为以搜集地球上稀有资源“AO结晶”为业的漂泊者。与贤士搭档一同在严峻的世界活下去，一同对抗名为“终结者”的异形生物，并带回资源的撤离射击游戏。
-
 详细信息：https://www.gamersky.com/z/syndualttyechoofada/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_12@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250110
 SUMMARY:波提：字节国度大冒险
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《波提：字节国度大冒险 (Boti: Byteland Overclocked)》将创新融入至经典的3D平台游戏。在鲜活的关卡中进行二段跳、冲刺、浮空及滑行，探索由电脑及科技精华启发的美妙连击操作。
 
 在可随时进退游戏的合作模式下，你可以和好友一起享受游戏纯粹的乐趣。本游戏可以丝滑衔接单人及双人
-
 详细信息：https://www.gamersky.com/z/bboc/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_13@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250128
 SUMMARY:钢铁之尾2
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：在《钢铁之尾 2》这款饱受好评动作类角色扮演冒险游戏的续作中，踏上征途前往幅员辽阔、白雪肆虐的王国。你将扮演废土守护者的继承者亚洛，在生存条件严峻的北境之地展开冒险，这里居住着巨大的野兽和卑鄙的盗贼，这场史诗任务的目标，是击败古老且渴求鲜血的邪恶势力。
-
 详细信息：https://www.gamersky.com/z/tails-of-iron-2/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_14@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250128
 SUMMARY:Eternal Strands
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：在这款第三人称动作冒险游戏中，与史诗般的巨型生物战斗，同时将魔法技能搭配威力强大的武器库，防止这个世界濒临崩溃。
-
 详细信息：https://www.gamersky.com/z/eternal-strands/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_15@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250114
 SUMMARY:Turbo Overkill
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《Turbo Overkill》是一款赛博朋克风FPS游戏，玩家将在游戏中扮演一个腿上有电锯的暴力杀人机器。“新天堂（Neo-paradise）”的街道正面临快速增长的犯罪以及不断进化的躲藏在阴影中的钢铁血肉融合AI的威胁。你是一名半人半机械的“街道清洁工”。你的任务很简单：把它们全杀了。
-
 详细信息：https://www.gamersky.com/z/turbo-overkill/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_16@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250117
 SUMMARY:圣恩传说F复刻版
 DESCRIPTION:类型：角色扮演
 制作发行：未知开发商
-
 简介：“圣恩传说F”变得更加绚丽、更加易于游玩后，再次问世！
 同时收录本篇之后的后日谈“迈向未来的系谱篇”！
 
 ◆为了守护世界、朋友，以及当时的誓言
 翠绿的星球埃菲尼亚上有三个大国，通称“原素”的力量支持着世界的运作。
 兰特位于温德尔边境，领主的嫡子名为“艾斯贝尔”，他为在花田遇见的失忆少女取名为“苏菲”
-
 详细信息：https://www.gamersky.com/z/tales-of-graces-f-remastered/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_17@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250128
 SUMMARY:猫娘小厨
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：一款超级可爱又美味的roguelite风格的地牢探索游戏！在这个郁郁葱葱的世界中探险，用你信任的锅铲和泡泡茶击败怪物，然后收集美味食材，把它们带回家，在你的餐馆烹饪和招待客人！
-
 详细信息：https://ku.gamersky.com/2023/cuisineer/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_18@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250131
 SUMMARY:ROBOBEAT
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：用节奏对抗机器人。
 
 你是Ace，一位正在追捕目标的著名赏金猎手，而你的目标就是疯狂的机器人Frazzer。要想逃脱扭曲诡异的Techno游乐园，你需要掌握射击、飞檐走壁、抓钩飞跃、滑铲与灵活弹跳的窍门，一切尽在节奏之中！准备好你的舞步，在融合Rogue-lite元素的音游射击游戏《RO
-
 详细信息：https://www.gamersky.com/z/robobeat/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_19@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250131
 SUMMARY:命运英雄
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《命运英雄》是一款以“幸存者”为核心玩法的爽快割草类“肉鸽”游戏。在怪物的重重包围下，你还会遭遇各式的任务或突发事件，你可以招募伙伴或成为孤狼，在这奇幻世界中经历一场惊险刺激且命运无常的冒险之旅！
-
 详细信息：https://ku.gamersky.com/2023/hero-of-fate/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_20@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250122
 SUMMARY:DISORDER
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：女孩通过揭开过去的真相逐渐克服了创伤。
 加入一个伤心欲绝的女孩寻找真实自我的旅程。
 《Disorder》是一款类似 Roguelike 的地下城探索游戏。
@@ -279,416 +240,358 @@ DESCRIPTION:类型：动作游戏
 成为一个失去记忆的女孩，必须揭开真相。随着每次逃跑尝试，你都会变得更强大，故事也会随之发展。
 
 可重复玩的游戏设
-
 详细信息：https://www.gamersky.com/z/disorder2024/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_21@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250130
 SUMMARY:昏迷2B：地下墓穴
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《昏迷2B：地下墓穴》是一款韩国恐怖冒险游戏。它是前作《昏迷2：恶毒姐妹》的背景故事，也是整个系列游戏的纽带。你将以《昏迷》中的主角——英豪的身份回归，并再次冒险进入恐怖的镜像维度……
-
 详细信息：https://www.gamersky.com/z/the-2b-catacomb/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_22@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250116
 SUMMARY:昨日之日
 DESCRIPTION:类型：角色扮演
 制作发行：未知开发商
-
 简介：《Long Gone Days》是一款以现实世界为背景的角色扮演游戏，讲述了战争期间人与人之间的情感联系，重点聚焦于平民生活、语言隔阂以及国界问题。
 在游戏中，你将跟随罗克的脚步，这位从小就被训练成狙击手的年轻人，他效忠于一个名为“核心”的地下准军事组织。
 在他的首次任务中，他肩负着一项极其重要的
-
 详细信息：https://ku.gamersky.com/2023/long-gone-days/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_23@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250129
 SUMMARY:疯狂之石
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《疯狂之石》是一款即时战术潜行游戏，故事发生在18世纪的一间西班牙修道院中。这间年代久远的耶稣会修道院地处比利牛斯山脉，被当作疯人院和审判监狱使用。监狱里的五名囚犯——忍受着残酷的惩罚、心中的疯狂和绝望的折磨——将各自的技能和资源汇聚在一起，从而直面他们的恐惧，防止自己失去理智，揭露修道院的秘密，并
-
 详细信息：https://www.gamersky.com/z/the-stone-of-madness/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_24@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250123
 SUMMARY:Dreamcore
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：踏入梦与梦之间的空间。
 
 Dreamcore 是一款心理探索游戏，将玩家沉浸在“边缘空间”诡异而美丽的氛围中。专为喜爱沉浸式、非线性玩法的玩家设计，Dreamcore 邀请您在广阔且相互关联的世界中自由漫游，在每一个角落发现谜团，每一条道路都通向新的发现。
 
 
 每个关卡都是一个等待探索的神秘
-
 详细信息：https://www.gamersky.com/z/dreamcore/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_25@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250116
 SUMMARY:雪人兄弟：奇幻乐园
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：冰弹与雪球
 三十多年前，《雪人兄弟》传奇系列诞生。如今，《雪人兄弟：奇幻乐园》带着全新冒险回归啦！——几十年过去了，变化可真不小！首先，画面已经从经典的2D进化成了华丽的3D等距视角。玩家手握无限冰弹，可以将怪物变成雪球，一脚踢出，瞬间击溃成群的敌人！还能连环攻击，击倒多个敌人，而你的雪球技能也将
-
 详细信息：https://www.gamersky.com/z/snowbros-wonderland/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_26@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250109
 SUMMARY:自由战争复刻版
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：人类生存之罪为──＂100 万年徒刑＂。在资源枯竭荒废的未来，人类生活在一切都被严格管理的超级监控社会中，且必须参加称为＂志愿服务＂的危险战斗，为赢取真正的自由而战。
-
 详细信息：https://www.gamersky.com/z/freedom-wars-remastered/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_27@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250115
 SUMMARY:远古之门
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：《远古之门》是一款 KEMCO 开发的回合制 RPG 游戏。本作主角只是一名普通的学生，当他察觉到的时候自己已经在一片没见过的森林中。然后被卷入了和魔物的战斗中。
-
 详细信息：https://ku.gamersky.com/2018/fernz-gate/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_28@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250106
 SUMMARY:Project Tower
 DESCRIPTION:类型：第三人称射击
 制作发行：未知开发商
-
 简介：Project Tower 是一款第三人称射击游戏，将激烈的子弹地狱战斗与独特的变形机制相融合。在一个受到海克威胁的宇宙中，人类的幸存者被迫在塔中作为“Project Tower”的一部分进行战斗。你扮演其中一名囚犯，目标是登顶以重获自由。
 比他们更聪明。 改变自己，更好地让敌人出其不意。 使
-
 详细信息：https://www.gamersky.com/z/project-tower/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_29@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250122
 SUMMARY:The Tale of Bistun
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《The Tale of Bistun》是一款剧情向动作冒险游戏，设计灵感源自于 12 世纪的悲剧诗歌《霍斯劳和席琳》。你将扮演一位石雕师，他在比斯顿山苏醒过来，却忘记了以前的种种经历。一种隐伏的枯萎病已然蔓延开来，引来无数恶敌。你必须对抗各路敌人，来回穿梭于现实世界和充满遗失回忆的虚无空间，探索过
-
 详细信息：https://ku.gamersky.com/2021/the-tale-of-bistun/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_30@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250116
 SUMMARY:Arken Age
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：方舟时代是一款VR动作冒险游戏，故事背景设定于生物鸿沟 - 一个由大树艺师所创造与改造的奇幻世界。使用注入阿肯石的刀剑和枪械进行完全基于物理的战斗，并自由探索被海伯利安的神经腐蚀所包围的密集环境。
 
 主要特点:
 
 
   物理战斗 - 在快节奏、完全物理的战斗中射击、肢解和粉碎敌
-
 详细信息：https://ku.gamersky.com/2024/arken-age/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_31@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250121
 SUMMARY:机器人灌篮
 DESCRIPTION:类型：体育游戏
 制作发行：未知开发商
-
 简介：ROBODUNK 是 NBA Jam 和 Rogue Legacy 混在一起，加机器人。
 天高灌篮，强力铲球和爆炸武器的扣球战斗游戏。
 每场比赛不同的 Roguelite 战役模式：即使死了，也能买下一个永久升级。
 再来……一次……灌篮！
 
 █▓▒░  Roguelite 战役模式  ░▒
-
 详细信息：https://ku.gamersky.com/2022/robodunk/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_32@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250115
 SUMMARY:亡灵法则
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：《亡灵法则》是一款日系幻想风格的角色扮演类游戏，游戏讲述了主角卡因在潜入遗迹寻找被称为众神遗产的魔具时，意外地与一名带着假面的神秘少女相遇，并因此被卷入一场即将动摇人族与兽人两个世界的重大阴谋之中。而获得神力的卡因，最后迎来的命运会是繁荣的未来还是即将步上毁灭的道路？这需要玩家在游戏中找寻答案。
-
 详细信息：https://ku.gamersky.com/2018/revenant-dogma/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_33@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250109
 SUMMARY:重力逃脱
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：重力逃脱是一款2D平台解谜游戏，主角K因为太空船遭受不明攻击迫降在未知的星球上，在探索的过程中将会发现一把重力枪，玩家可利用子弹产生重力变化，改变物体及主角本身的重力。除了重力弹之外，还有磁力弹、传送弹以及其他特殊能力待玩家自行探索发现。
 
 玩家需要根据关卡地形以及附近的装置，选择正确的子弹才能
-
 详细信息：https://ku.gamersky.com/2024/gravity-escape/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_34@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250129
 SUMMARY:屠戮者：起源
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《屠戮者：起源》是一款 2.5D 自动攻击生存大乱斗游戏，带有轻度肉鸽 (rogue-lite) 元素，采用暗黑动画叙事手法。解锁强大的英雄，建造拥有独特能力的建筑，勇闯靡菲斯特的冥界，在愈发严酷的环境中奋力生存。
 
 
 暗黑动画艺术风格
 游戏将极具个性的动画风格与黑色电影的黑暗基调相结合
-
 详细信息：https://ku.gamersky.com/2024/slasher-origins/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_35@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250110
 SUMMARY:Die by Anything
 DESCRIPTION:类型：益智游戏
 制作发行：未知开发商
-
 简介：在普通学生的生活中度过平凡的一天！
 欢迎来到这个奇特的世界，死亡潜伏在每个角落！做出决定，是让你度过平静的一天，还是以残酷、荒谬或出人意料的方式死去！
 
 在这个世界中生存，一切都不是你所看到的那样，根据你所选择的道路，你可能会发现生活中的每一个决定都很重要，任何事情都可能杀死你，甚至是你认为不
-
 详细信息：https://ku.gamersky.com/2024/die-by-anything/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_36@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250130
 SUMMARY:Accolade Sports Collection (QUByte Cl...
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：通过《Accolade 体育系列》重温复古体育游戏的黄金时代！从传奇的棒球到令人热血沸腾的街头篮球，再到史诗般的冬季和夏季挑战，本合集包含 5 款令人难忘的经典游戏！怀旧的画面和原汁原味的游戏玩法，让您有机会回到过去，体验 90 年代最精彩的游戏。
 完整的复古游戏体验，玩家可以轻松选择不同的游
-
 详细信息：https://ku.gamersky.com/2024/accolade-sports-collection-qubyte-classics/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_37@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250129
 SUMMARY:Agent Fall
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：Agent Fall 是一款受经典游戏启发的动作游戏，你将面对一个星际政府阴谋。外星人站在政府一边，作为特工的你必须击败这个黑暗联盟。准备好迎接疯狂的战斗，强大的武器、无情的敌人和史诗般的boss等着你。你是否有足够的勇气揭露真相，拯救人类？
-
 详细信息：https://ku.gamersky.com/2024/agent-fall/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_38@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250130
 SUMMARY:A Rite from the Stars: Remaster Edition
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：当星星降临到 Kaikala 岛时，一段传奇就此诞生，它们选择了 Makoa 部落的一个小男孩，引导他通过古老的仪式。然而，一些异常的事情正在发生，越来越少的年轻人通过能够让他们离开童年的仪式，而一些引导的星星也未能返回天幕……
 加入 Kirm 和他的引导星 Hoku 的冒险，体验充满谜题、探索和
-
 详细信息：https://ku.gamersky.com/2024/a-rite-from-the-stars-remaster-edition/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_39@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250124
 SUMMARY:Dragon Takers
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：由无情的德雷克皇帝提比略斯指挥的巨龙军团，正步步逼近世界的全面征服。曾经强大的各国如今分裂，各自为战，眼睁睁看着自己的土地一个接一个沦陷在军团的阴影之下。在混乱之中，一个名叫赫里奥的年轻人，来自谦逊的避风村，在一场残酷的龙袭中濒临死亡。然而，就在希望即将破灭之时，一股神秘的力量在他体内觉醒——传说中
-
 详细信息：https://ku.gamersky.com/2024/dragon-takers/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_40@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250101
 SUMMARY:The Legend of Cyber Cowboy
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：从电控匪帮的魔爪中解放小镇！
 
 随着电控技术的发展，狂野西部也益发狂野了，接下来你的任务是消灭肆虐的匪帮，因为他们正在利用这种技术危害诚实而勤劳的当地人！你将扮演一位装备机械臂和大量增强型武器的蒸汽朋克枪手。《The Legend of Cyber Cowboy》是一款自上而下的双摇杆射击游戏，
-
 详细信息：https://ku.gamersky.com/2024/the-legend-of-cyber-cowboy/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_41@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250131
 SUMMARY:Casual Sport Series: Tennis
 DESCRIPTION:类型：益智游戏
 制作发行：未知开发商
-
 简介：Casual Sport Series: Tennis brings the excitement of the game to life with its accessible and action-packed gameplay.
 
 The game features realistic
-
 详细信息：https://ku.gamersky.com/2025/casual-sport-series-tennis/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_42@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250116
 SUMMARY:Professor Doctor Jetpack
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：Professor Doctor Jetpack is a physics based lunar lander game in which you embark on a dangerous journey to ... control your jetpack. And to save the
-
 详细信息：https://ku.gamersky.com/2024/professor-doctor-jetpack/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_43@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250228
 SUMMARY:怪物猎人：荒野
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：狂野凶猛的大自然，袭来。时刻都在动态变化的原野。怪物结群斗争的残酷环境以及满溢丰饶生命的环境，世界具有这样的两面性。这是个关于生活在这个世界中的怪物与人们的故事，究极的狩猎体验正等待你的到来。
-
 详细信息：https://www.gamersky.com/z/monster-hunter-wild/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_44@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250205
 SUMMARY:天国：拯救2
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：你将扮演来自小村斯卡里茨的亨利，一位做出了不凡之事的凡夫俗子，踏上史诗般的旅程。你将被卷入一段摄人心弦的有关复仇，背叛和发现的故事，这段旅程将带你在这个美丽而无情的中世纪世界中寻找自己的意义。
-
 详细信息：https://www.gamersky.com/z/kingdom-come-deliverance-2/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_45@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250211
 SUMMARY:文明7
 DESCRIPTION:类型：策略游戏
 制作发行：未知开发商
-
 简介：在《文明7》中，你的战略决策影响着帝国的独特文化血脉，伴随其不断发展。化身历史长河中的一位传奇领袖，统治你的帝国。在人类发展的每个时代选择一个新的文明来代表你的帝国，书写自己的传奇。
-
 详细信息：https://www.gamersky.com/z/civilization7/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_46@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250220
 SUMMARY:如龙8外传：夏威夷海盗
 DESCRIPTION:类型：动作角色扮演
 制作发行：未知开发商
-
 简介：本作由真岛吾朗担任主角，描绘《人中之龙8》之后故事的全新作品。驾驶海盗船“吾朗号”在汪洋大海开展大冒险！除了崭新的爽快战斗动作以外还有充满隐藏的娱乐场所，还有由豪华演员阵容演绎的充满魅力的新角色们。
-
 详细信息：https://www.gamersky.com/z/pirates-in-hawaii/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_47@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250212
 SUMMARY:苏醒之路
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：《苏醒之路》是由Vanimals制作发行的一款冒险题材游戏，一场灾难打乱了安玲和她的孩子科迪的生活，僵尸病毒的爆发将他们熟悉的一切变成了地狱。更糟糕的是，安玲被僵尸咬伤了... 在完全变成僵尸之前，她要在对抗被病毒逐渐侵蚀的人性的同时，保护科迪，教会他生存——以便在这场危机中活下来。
-
 详细信息：https://ku.gamersky.com/2021/undying/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_48@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250206
 SUMMARY:莫莫多拉：月下告别
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《莫莫多拉：月下告别》是莫莫多拉系列的集大成之作。故事发生在《莫莫多拉3》的五年后，歌赫村的祭司长莫莫临危受命，为了拯救众人免遭被钟声吸引而来的恶魔的危害，从而踏上一场旅途。
-
 详细信息：https://www.gamersky.com/z/momodora-moonlit/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_49@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250212
 SUMMARY:都市传说解体中心
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：怪异解谜悬疑冒险游戏
 
 “都市传说解体中心”负责调查和破解各种怪异、诅咒之物和异界等事件。
@@ -696,181 +599,155 @@ DESCRIPTION:类型：冒险游戏
 
 
 以网上流传的各种都市传说为主题的一桩桩推理剧情，结合了迷幻的像素画风格美术，是一款鬼魅妖
-
 详细信息：https://www.gamersky.com/z/urban-myth-dissolution-center/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_50@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250226
 SUMMARY:Spectre Divide
 DESCRIPTION:类型：第三人称射击
 制作发行：未知开发商
-
 简介：《Spectre Divide》采用手绘漫画风格，总体玩法类似于《CS:GO》与《无畏契约》但在此基础上做出了创新。游戏特色是被称为“二元性”的机制，即一位玩家可以在对局内同时操作两个角色：看似3V3，实则6V6。“二元性”机制让玩家可进行更多战术规划，使战局更加变幻莫测。
-
 详细信息：https://ku.gamersky.com/2024/spectre-divide/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_51@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250206
 SUMMARY:挖或死
 DESCRIPTION:类型：动作
 制作发行：未知开发商
-
 简介：这款游戏中玩家必须依靠建造防御来在一个充满敌意的星球上生存下来。你是CRAFT公司的一名代表。你在星系的各个角落贩卖自动装配工具。在你的飞船坠毁后，你必须利用你贩卖的工具和当地的资源来生存下去，并且最终逃离这个星球。
-
 详细信息：http://www.gamersky.com/z/Dig-or-Die/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_52@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250226
 SUMMARY:Deadside
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：一款融合了硬核PVP与PVE玩法的开放世界生存射击游戏。在安全区存放珍贵战利品，或在荒野中打造属于自己的堡垒。紧张激烈的枪战、令人惊艳的视觉效果，再加上兼容各个系统的流畅性能体验，挑战正等待着你！
-
 详细信息：https://www.gamersky.com/z/deadside/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_53@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250206
 SUMMARY:大头盔英雄
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：走进《Big Helmet Heroes》的世界，这是一款电影级3D清版动作冒险游戏，融合了极具冲击力的视觉效果、电影级动画和令人热血沸腾的动作等。与可爱的骑士一起踏上奇幻王国的探险之旅。在双人合作模式中与好友一起拯救公主，发掘并面对未来更大的挑战！
 
 让自己沉浸在这款突破了动画界限的游戏中。我
-
 详细信息：https://www.gamersky.com/z/big-helmet-heroes/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_54@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250208
 SUMMARY:盾墙
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《盾墙》是由Nezon Production制作发行的一款物理模型战争动作游戏。游戏背景是罗马帝国时期，你可以控制一名指挥官带领你的士兵开始战斗，在第三人称视角的控制下，你率领的小队是一个小型的战斗编组，彼此相互保护照应。
-
 详细信息：https://ku.gamersky.com/2020/shieldwall/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_55@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250218
 SUMMARY:Lost Records: Bloom & Rage
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：时光重返到90年代，四个高中女孩度过了一个意义非凡的夏天，她们组建了朋克乐队、共同经历了永远改变她们人生的不可思议事件，她们也随之彼此认识，成为朋友。
 分两部分体验这个惊心动魄的故事！第一部分：“绽放”（Bloom），于2月18日推出，第二部分：“愤怒”（Rage），于4月15日推出。“愤怒”将在发
-
 详细信息：https://www.gamersky.com/z/lost-record/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_56@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:无双深渊
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：号令名垂青史的各路一骑当千之英豪，挑战蜂拥而至的敌人。积累胜与败的经验，突破地狱的难关吧。可成为同伴的英豪数量超越百名！通过搭配个性十足的英豪，组成自己的最强队伍，战胜地狱的亡者吧！
-
 详细信息：https://www.gamersky.com/z/wsabyss/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_57@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:Deadlink
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：准备好在《Deadlink》中重创巨型企业的利润。这是一款具备 roguelite 元素的第一人称赛博朋克射击游戏。玩家将化身成为人形战斗躯体背后的大脑，并遵从部署展开秘密军事行动。同时，“隐秘行动”并不意味着一切都要“悄悄进行”。
-
 详细信息：https://ku.gamersky.com/2023/deadlink/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_58@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250205
 SUMMARY:恶棍水域
 DESCRIPTION:类型：策略游戏
 制作发行：未知开发商
-
 简介：《恶棍水域》是一款战术回合制Rogue-lite游戏。扮演卡特船长，指挥你的船只和船员，通过程序生成的遭遇战进行复仇。招募、训练并升级船员，利用强大的海洋生物，参与动态的海战和近战，取得优势。
-
 详细信息：https://www.gamersky.com/z/rogue-waters/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_59@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:再见
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：今夏最感人独立游戏 -《再见》以穿越时空为主题，填补生命的遗憾。
 
 如果让你拥有穿越时空的能力，你最想见到谁？
 
 一个百无聊赖的暑假，少年小夏吹熄生日蜡烛后，竟发生了意料之外的事 - 他穿越时空，见到自己这辈子最想见，却从未见过的人。在那个时空里，小夏除了与「她」相遇相伴，也向「她」学习摄影
-
 详细信息：https://ku.gamersky.com/2022/zaijian/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_60@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:救国少女之斯娜静歌
 DESCRIPTION:类型：第三人称射击
 制作发行：未知开发商
-
 简介：本作品是一款简单易上手的快节奏射击游戏。在游戏中，你将扮演私人军事公司的职工，通过卡片强化角色，并执行各式各样的防卫任务。
-
 详细信息：https://www.gamersky.com/z/snezhinka/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_61@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250221
 SUMMARY:Cabernet
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：《Cabernet》是一款以19世纪东欧世界为背景的2D剧情类角色扮演游戏。年轻的吸血鬼吉德·丽莎将在一群毫无戒心的镇民之中，以不死之身开启新生活。你会选择维持人性，还是毅然走上恐怖的吸血鬼之路？
-
 详细信息：https://www.gamersky.com/z/cabernet/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_62@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:瞎闹猎车手
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：化身特里，踩上他的拖鞋，踏上这款短小而又有意思的冒险之旅，陪着他逐渐认识自我，了解成为✨洒洒水镇✨镇民的意义。
 
 重要特色：
@@ -880,182 +757,156 @@ DESCRIPTION:类型：冒险游戏
   与水汪镇稀奇古怪的居民互动，了解一个治愈有爱的故事。
 
   收
-
 详细信息：https://ku.gamersky.com/2024/tiny-terry-s-turbo-trip/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_63@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250207
 SUMMARY:救护车生活：救护员模拟器
 DESCRIPTION:类型：模拟游戏
 制作发行：未知开发商
-
 简介：将生活奉献给救死扶伤。接到急救电话的第一时间，迅速驾驶救护车，一路鸣笛前往事故现场。进行急救，并将重伤者转移至医院。分秒必争！由开创性标杆游戏《警察模拟器：巡警》的创作者所开发。
-
 详细信息：https://www.gamersky.com/z/ambulance-life-a-paramedic-simulator/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_64@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250206
 SUMMARY:达萨隆之月
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《达萨隆之月》是一款复古挑战型平台游戏。在达萨隆的众多卫星上，数支达萨隆勘探小队在卫星上等待搜救。
-
 详细信息：https://ku.gamersky.com/2023/moons-of-darsalon/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_65@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250207
 SUMMARY:飞拳爆
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：《飞拳爆》有着最疯狂的动漫战斗。玩家可以超速飞行，把高楼砸到朋友脸上，同时用一拳打爆星球。
-
 详细信息：https://ku.gamersky.com/2020/fly-punch-boom/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_66@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250228
 SUMMARY:王冠与走卒：王国的欺骗
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：《王冠与走卒：王国的欺骗》是一款美式风格的冒险解谜游戏，你将在游戏中穿越回古时候的欧洲，并陷入一段奇幻的传说旅程之中，而这段古老的传说，也能够揭开你身世的秘密。
-
 详细信息：https://www.gamersky.com/z/crowns-and-pawns-kingdom-of-deceit/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_67@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:Recall: Empty wishes
 DESCRIPTION:类型：角色扮演
 制作发行：未知开发商
-
 简介：回忆中的声音挥之不去——你听见了吗？
 
 
 
 聪明又善解人意的男孩林子维，为何会突然失踪？某天，林子晴找到了她和弟弟林子维童年的玩具话筒，这个神秘的话筒引导子晴与她的朋友一起进入虚幻的世界，在那里他们可以探索与子维相关人物的回忆。通过话筒穿梭在人物们最深层的愿望里，并藉此揭开子维失踪背后的真相
-
 详细信息：https://ku.gamersky.com/2022/recall-empty-wishes/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_68@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:铁血机甲：反攻
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：未来背景的横版卷轴移动枪战动作游戏。失去一切后作为半机械人重生的主人公凯文，开始向夺走他一切的外星人哥利达复仇。去赫利俄斯星系的神秘9大行星展开冒险，寻找赫利俄斯中隐藏的诸多秘密。
-
 详细信息：https://www.gamersky.com/z/metal-suits/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_69@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250228
 SUMMARY:PGA TOUR 2K25
 DESCRIPTION:类型：体育游戏
 制作发行：未知开发商
-
 简介：《PGA TOUR 2K25》是近十年来最受好评的高尔夫模拟游戏系列的最新迭代，带来前所未有的推杆、完成标准杆和高精准度的游戏享受*。PGA锦标赛、美国公开赛和英国公开赛首次亮相2K系列，在三大赛中名垂青史。通过扩展的辉煌生涯、自创球员和球场设计器选项，打造个性化游戏。在排名赛、休闲比赛和跨平台多
-
 详细信息：https://ku.gamersky.com/2025/pga-tour-2k25/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_70@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:Shujinkou
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：这款单人 JRPG 旨在吸引日语使用者和非日语使用者，玩家可以扮演 Shu、Jin 和 Kou，试图从恶魔手中拯救世界！
 
 一位退休的武士（主）受托拯救他的家园，使其免受聪明、语言不通的“恶魔”的侵害，同时还有一只从诅咒的住所中解救出来的古怪狐狸（人）和一位有自己野心的精明公主（公）。
 
 S
-
 详细信息：https://ku.gamersky.com/2023/shujinkou/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_71@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250214
 SUMMARY:来自地狱的女人
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：一款令人上瘾的有趣街机 2D 益智游戏。游戏的主要目标是一个女孩向她的情人复仇。女主角需要找到物品并利用它们将男友的生活变成地狱。你需要收集各种物品，在它们的帮助下制造陷阱。
-
 详细信息：https://ku.gamersky.com/2024/girlfriend-from-hell/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_72@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250301
 SUMMARY:Dreamless
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：在一个偏远的省城，每隔 25 年就会有青少年神秘失踪。你是一名即将年满 18 岁的高中生... 但如果你是下一个受害者呢？
-
 详细信息：https://ku.gamersky.com/2024/dreamless/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_73@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250213
 SUMMARY:橄榄球25
 DESCRIPTION:类型：体育游戏
 制作发行：未知开发商
-
 简介：欢迎体验究极橄榄球电玩游戏––《Rugby 25》！ 从俱乐部球队到全世界最大的国际型比赛，每个细节都经过精心制作，将橄榄球的刺激和紧张感带到你的手中。
-
 详细信息：https://ku.gamersky.com/2024/rugby-25/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_74@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250214
 SUMMARY:森林深处
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：这是一款结合 RPG 元素的卡牌构建类 roguelite 游戏，背景设定在 19 世纪的东欧，故事围绕着一位年轻的吸血鬼吉德·丽莎展开，玩家需要帮助她从疯王的压迫中拯救森林王国。
-
 详细信息：https://ku.gamersky.com/2025/deep-in-the-forest/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_75@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250228
 SUMMARY:Mycelium Heaven
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：在Mycelium Heaven享受一个不同且巧妙的冒险，在这里，一种有着非常特别饮食的真菌将帮助拯救它的家园。
 
 在这场战争中制定最佳策略，并克服关卡，在那里你将发现新的和复杂的机制，这将考验你的逻辑。
@@ -1065,47 +916,41 @@ DESCRIPTION:类型：冒险游戏
 无需复杂教程即可直接潜入，发现充满谜题的迷人世界。
 
 🍄 别忘了用你的智慧和创
-
 详细信息：https://ku.gamersky.com/2024/mycelium-heaven/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_76@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250207
 SUMMARY:Spacepunk Survival
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：Spacepunk Survival is a multiplayer first-person shooter where you and your teammates must survive for as long as you can in the dark and hostile env
-
 详细信息：https://ku.gamersky.com/2024/spacepunk-survival/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_77@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250205
 SUMMARY:Mimi the Cat - Meow Together
 DESCRIPTION:类型：策略游戏
 制作发行：未知开发商
-
 简介：Mimi the Cat – Meow Together 是一款推箱子风格的游戏，提供单人或本地合作玩的选项.
 掌控局势，推动箱子，叠放它们，甚至在平台之间跳跃，制定最佳策略，帮助可爱的小猫们到达可用的床上好好休息.
 
 在 Mimi the Cat – Meow Together 中，你有两种玩法.
-
 详细信息：https://ku.gamersky.com/2023/mimi-the-cat/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_78@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250215
 SUMMARY:Doggy Up!
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：这是一款平台跳跃游戏，你将扮演一只名叫奥利的德国牧羊犬，它被困在了自己的梦境中。你能否通过重重考验，将奥利从梦境中解救出来呢？
 
 游戏拥有精美画面、多样化的场景，你可以不断提升角色能力，还有动态十足的关卡事件，让你乐此不疲。
@@ -1113,48 +958,41 @@ DESCRIPTION:类型：冒险游戏
 磨练你的操作技巧，轻松应对各种挑战，完成游戏吧！
 
 游戏特色
-
 详细信息：https://ku.gamersky.com/2024/doggy-up/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_79@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250212
 SUMMARY:Super Jagger Bomb 2: Go East
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：拆除炸弹以拯救世界！
 準备好迎接爆炸性的街机平台动作游戏吧，因为披着斗篷的炸弹收集超级英雄将在 Super Jagger Bomb 2: Go East 中回归！这次，炸弹已被放置在全球各地的地标和纪念碑上，Super Jagger 有责任拯救这些国宝以免被破坏。
 奔跑、跳跃、飞行和衝刺，以 2.5
-
 详细信息：https://ku.gamersky.com/2024/super-jagger-bomb-2-go-east/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_80@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250207
 SUMMARY:Beef Cat Ultra
 DESCRIPTION:类型：动作游戏
 制作发行：未知开发商
-
 简介：在古朴、快乐的 Beeflandia 世界里，我们的主人公 "牛肉猫 "和朋友们总能找到庆祝美好时光的方式。然而，当 "大块头"（Some Big Guy）出现并开始制造混乱时，气氛当然发生了变化。
-
 详细信息：https://ku.gamersky.com/2024/beef-cat-ultra/
 END:VEVENT
 
 BEGIN:VEVENT
 UID:game_81@gamersky.com
-DTSTAMP:20250312T072219Z
+DTSTAMP:20250312T083439Z
 DTSTART;VALUE=DATE:20250221
 SUMMARY:There's a Gun in the Office
 DESCRIPTION:类型：冒险游戏
 制作发行：未知开发商
-
 简介：Imagine being trapped, kidnapped, and racing against the clock to escape. Locked in a room with nothing to protect you or even eat. You’re faced with
-
 详细信息：https://ku.gamersky.com/2024/there-s-a-gun-in-the-office/
 END:VEVENT
 
